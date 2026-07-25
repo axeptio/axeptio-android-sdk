@@ -1,21 +1,44 @@
-MIT License
+Axeptio Android SDK — License
 
-Copyright (c) [2021-2024] [Axeptio]
+Copyright (c) 2021-2026 Axeptio
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Versions published before 1.2.0 were released under the Apache License 2.0 and
+remain governed by it. A copy of the Apache License 2.0 is available at:
+https://www.apache.org/licenses/LICENSE-2.0
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Starting from version 1.2.0, this SDK is licensed under Axeptio's licensing
+terms as set out below. English and French versions follow.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+--------------------------------------------------------------------------------
+
+IMPORTANT LICENSE NOTICE
+
+Starting from version 1.2.0, this content is subject to Axeptio's licensing
+terms, which are accessible at:
+https://www.axept.io/fr/?axeptio_contract=terms_of_use_en
+
+By using this content, you acknowledge that you hold a valid Axeptio license and
+expressly agree to these Licensing Terms.
+
+Mandatory Updates: To ensure optimal performance, security, and compatibility
+with Axeptio services, you are required to use the most up-to-date version of
+this content. Agilitation disclaims any liability, warranty, or technical
+support for issues or security vulnerabilities arising from the use of outdated
+versions.
+
+--------------------------------------------------------------------------------
+
+AVIS IMPORTANT CONCERNANT LA LICENCE
+
+A partir de la version 1.2.0, ce contenu est soumis aux termes de la licence
+Axeptio, disponibles à l'adresse suivante :
+https://www.axept.io/fr/?axeptio_contract=terms_of_use_fr
+
+En utilisant ce contenu, vous reconnaissez disposer d'une licence Axeptio valide
+et accepter sans réserve ces Conditions de Licence.
+
+Mises à jour obligatoires : Afin de garantir des performances optimales, la
+sécurité et une compatibilité avec les services d'Axeptio, vous êtes tenu
+d'utiliser la version la plus récente de ce contenu. Agilitation décline toute
+responsabilité, garantie ou obligation de support technique pour les problèmes
+ou failles de sécurité résultant de l'utilisation de versions obsolètes.
